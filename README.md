@@ -196,6 +196,9 @@ Executive Dashboard
 
 ---
 
+## To Run this code 
+- streamlit run apps.py
+
 ## Author
 
 Vishwa DN
